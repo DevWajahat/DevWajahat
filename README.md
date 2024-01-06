@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img width="31" height="31" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" />, I'm Wajahat Abbas</h1>
 <h3 align="center">Passionate Web Developer</h3>
 
-# 🙋‍♂️ About Me:
+## 🙋‍♂️ About Me:
 - Professionally skilled web developer and SEO expert with an insatiable curiosity to learn new things. ⚡
 - Committed to staying up-to-date with the latest advancements in the field, constantly improving skills, and eager to take on new challenges to create innovative solutions. 💡
 - I love teaching others what I've learned. Fun fact: I really love the sentence Hello World. 😂😂
@@ -10,6 +10,23 @@
 <a href="https://thedevahtesham.pages.dev/" target="_blank"><h4>https://thedevahtesham.pages.dev</h4></a> -->
 
 <img align="center" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"> <br> <br> <br>
+
+## 🌱 Currently Learning
+
+I'm always looking to enhance my skills and stay up-to-date with the latest technologies. Currently, I am exploring:
+
+- Json for server-side rendering and improved performance.
+- Advanced CSS techniques and animations.
+
+## 📂 Featured Projects
+
+Here is my one of the project I'm proud of:
+
+**[Eyeonic E-Commerce Website]( https://devwajahat.github.io/Eyeonic/)**
+   - This was my first project I've created in my Institute. The objective of this project was to create a static Eyewear-E-Commerce-Website
+   from Scratch.
+   - Technologies used: Bootstrap,Jqeury, HTML, CSS, JavaScript
+
 
 # 🚀 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -31,5 +48,7 @@
 # 🔝 Top Contributed Repo
 ![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=DevWajahat&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-# ❤ Views
-![Profile Views](https://visitcount.itsvg.in/api?id=DevWajahat&icon=0&color=0)](https://visitcount.itsvg.in)
+##  📫 How to reach me ...
+📧 apptechwajahat12@gmail.com
+📱 +923308425176
+# - Feel free to reach out for collaboration, project inquiries, or just to chat about frontend development! 😊
