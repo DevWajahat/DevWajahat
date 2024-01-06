@@ -19,7 +19,6 @@
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 # 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevWajahat&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
@@ -33,4 +32,4 @@
 ![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=DevWajahat&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 # ❤ Views
-[![Profile Views](https://visitcount.itsvg.in/api?id=DevWajahat&icon=0&color=0)](https://visitcount.itsvg.in)
+![Profile Views](https://visitcount.itsvg.in/api?id=DevWajahat&icon=0&color=0)](https://visitcount.itsvg.in)
