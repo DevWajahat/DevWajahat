@@ -49,6 +49,7 @@ Here is my one of the project I'm proud of:
 ![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=DevWajahat&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ##  📫 How to reach me ...
-📧 apptechwajahat12@gmail.com
-📱 +923308425176
+📧 apptechwajahat12@gmail.com <br>
+📱 +923308425176 <br>
+
 # - Feel free to reach out for collaboration, project inquiries, or just to chat about frontend development! 😊
