@@ -4,7 +4,7 @@
 ## 🙋‍♂️ About Me:
 - Professionally skilled web developer and SEO expert with an insatiable curiosity to learn new things. ⚡
 - Committed to staying up-to-date with the latest advancements in the field, constantly improving skills, and eager to take on new challenges to create innovative solutions. 💡
-- I love teaching others what I've learned. Fun fact: I really love the sentence Hello World. 😂😂
+- I love teaching others what I've learned. Fun fact: I love the sentence Hello World. 😂😂
 
 <!-- # 🧑‍💻 Personal Portfolio:
 <a href="https://thedevahtesham.pages.dev/" target="_blank"><h4>https://thedevahtesham.pages.dev</h4></a> -->
@@ -13,19 +13,19 @@
 
 ## 🌱 Currently Learning
 
-I'm always looking to enhance my skills and stay up-to-date with the latest technologies. Currently, I am exploring:
+I always want to enhance my skills and stay up-to-date with the latest technologies. Currently, I am exploring:
 
 - Json for server-side rendering and improved performance.
 - Advanced CSS techniques and animations.
 
 ## 📂 Featured Projects
 
-Here is my one of the project I'm proud of:
+Here is one of the projects I'm proud of:
 
 **[Eyeonic E-Commerce Website]( https://devwajahat.github.io/Eyeonic/)**
-   - This was my first project I've created in my Institute. The objective of this project was to create a static Eyewear-E-Commerce-Website
+   - This was the first project I've created in my Institute. The objective of this project was to create a static Eyewear-E-Commerce-Website
    from Scratch.
-   - Technologies used: Bootstrap,Jqeury, HTML, CSS, JavaScript
+   - Technologies used: Bootstrap,Jquery, HTML, CSS, JavaScript
 
 
 # 🚀 Tech Stack:
@@ -35,7 +35,7 @@ Here is my one of the project I'm proud of:
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
+![Webpac](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 
 # 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevWajahat&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
